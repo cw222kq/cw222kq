@@ -1,12 +1,14 @@
 # Hello! 👋
 
-I usually make many small commits during development, but when I merge to main, I squash them into a single commit to keep the history clean and easy to read.
+I often make many small commits during development on feature branches. Commits made on these branches don't appear in the activity graph until they are merged.
 
-Because of this, the activity graph may show fewer commits than my actual work output.
+When I merge a feature branch into main, I use **squash merges**, which combine all commits from that branch into a single commit. This means that only one commit from the entire branch appears in the activity graph.
+
+Because of this, the activity graph may show fewer commits than the actual amount of work I put in.
 
 I use pull requests and follow good development practices, even in my personal projects.
 
-Feel free to explore my repositories to see my code and workflow!
+Feel free to explore my repositories to see my code, workflow, and contributions!
 
 ---
 
